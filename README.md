@@ -60,7 +60,7 @@ core/Webapp/
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/aalexander47/EasyHeals.git
-    cd EasyHeals/core/Webapp
+    cd EasyHeals/Webapp
     ```
 
 2. **Create & Activate a Virtual Environment**
